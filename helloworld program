@@ -1,0 +1,6 @@
+console.log("hello world")
+function add3no(a,b,c){
+  return a+b+c;
+}
+let c=add3no(1,2,4)
+console.log(c)
